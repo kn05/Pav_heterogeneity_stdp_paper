@@ -4,7 +4,7 @@ This repository contains the code used to generate data for the paper:
 
 "Effect of STDP Constant Distribution on Pavlovian Neural Network Simulation"
 
-The simulation investigates the effect of applying gamma distributions to the STDP (Spike-Timing-Dependent Plasticity) parameters. Specifically, `tauplus_gamma`, `tauminus_gamma`, `ap_gamma`, and `am_gamma` indicate that gamma distributions were applied to the STDP parameters `tau_plus`, `tau_minus`, `A_plus`, and `A_minus`, respectively.
+The simulation investigates the effect of applying gamma distributions to the STDP (Spike-Timing-Dependent Plasticity) parameters. Specifically, `tauplus_gamma`, `tauminus_gamma`, `aplus_gamma`, and `aminus_gamma` indicate that gamma distributions were applied to the STDP parameters `tau_plus`, `tau_minus`, `A_plus`, and `A_minus`, respectively.
 
 ## Directory Structure
 
