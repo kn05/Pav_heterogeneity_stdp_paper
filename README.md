@@ -1,5 +1,7 @@
 # Effect of STDP Constant Distribution on Pavlovian Neural Network Simulation
 
+[![DOI](https://zenodo.org/badge/872085826.svg)](https://doi.org/10.5281/zenodo.13926756)
+
 This repository contains the code used to generate data for the paper:
 
 "Effect of STDP Constant Distribution on Pavlovian Neural Network Simulation"
